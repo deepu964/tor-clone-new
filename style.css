@@ -1,0 +1,27 @@
+:root{
+    --main-color : #59316b;
+  }
+  /* Make the dropdown menu scrollable */
+  .dropdown-menu {
+    max-height: 200px; /* Adjust the height as needed */
+   overflow-y: auto;
+  } 
+
+ .btn-custom:hover {
+  background-color: #ffffff;
+  color: #59316b;
+} 
+.button{
+  background-color: transparent;
+  border: none;
+  text-decoration: none;
+}
+a {
+  color: #59316b;
+  font-weight:200;
+  text-decoration: none;
+  
+}
+
+
+
